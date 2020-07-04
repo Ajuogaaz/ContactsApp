@@ -21,7 +21,7 @@ The app is composed of two screens. The first screen displays a list of contacts
 
 **Final View**
 
-![final product](https://courses.codepath.com/course_images/android_university_fast_track/lollipop_circular_reveal.gif)
+![final product](https://github.com/Ajuogaaz/ContactsApp/blob/master/lollipop_circular_reveal.gif)
 
 
 ## Overview
